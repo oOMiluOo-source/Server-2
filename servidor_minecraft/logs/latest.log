@@ -1,0 +1,25 @@
+[22:38:53] [main/INFO]: Loading Minecraft 1.21.10 with Fabric Loader 0.18.2
+[22:38:53] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.18.2
+	   \-- mixinextras 0.5.0
+	- java 21
+	- minecraft 1.21.10
+[22:38:53] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Server/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[22:38:59] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[22:39:01] [main/INFO]: Loaded 1461 recipes
+[22:39:01] [main/INFO]: Loaded 1574 advancements
+[22:39:01] [Server thread/INFO]: Starting minecraft server version 1.21.10
+[22:39:01] [Server thread/INFO]: Loading properties
+[22:39:01] [Server thread/INFO]: Default game type: SURVIVAL
+[22:39:01] [Server thread/INFO]: Generating keypair
+[22:39:01] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:39:01] [Server thread/INFO]: Using epoll channel type
+[22:39:01] [Server thread/INFO]: Preparing level "world"
+[22:39:01] [Server thread/INFO]: Loading 0 persistent chunks...
+[22:39:01] [Server thread/INFO]: Preparing spawn area: 100%
+[22:39:01] [Server thread/INFO]: Time elapsed: 15 ms
+[22:39:01] [Server thread/INFO]: Done (0.408s)! For help, type "help"
+[22:39:14] [User Authenticator #1/INFO]: UUID of player oOMiluOo is 314952dd-48a2-46a5-a3cd-79c6780a5356
+[22:39:17] [Server thread/INFO]: oOMiluOo[/127.68.78.15:58137] logged in with entity id 70 at (659.9768054892355, 83.0, 106.54396230174301)
+[22:39:17] [Server thread/INFO]: oOMiluOo joined the game
+[23:26:59] [Server thread/INFO]: Villager class_1646['Villager'/8647, l='ServerLevel[world]', x=387.70, y=71.00, z=103.13] died, message: 'Villager was slain by Zombie'
